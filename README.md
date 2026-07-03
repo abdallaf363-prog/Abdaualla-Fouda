@@ -1,29 +1,101 @@
 # Abdaualla-Fouda
 
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
+  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
+  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
+  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
+  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
+</p>
 
-```txt
-No activity tracked
+<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<br>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
+      <br>KCL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
+      <br>Dagger
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
+      <br>Nix
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
+      <br>tmux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
+      <br>nvim
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Coding Activity</h2>
+
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
 ```
 
-<!--END_SECTION:waka-->
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- links -->
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" 
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
